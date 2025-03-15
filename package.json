@@ -1,6 +1,6 @@
 {
   "name": "tazu",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "cli.js",
   "description": "A simple task manager CLI tool",
   "type": "module",
