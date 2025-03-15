@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "main": "cli.js",
   "description": "A simple task manager CLI tool",
+  "type": "module",
   "bin": {
     "tazu": "./cli.js"
   },
