@@ -1,0 +1,22 @@
+{
+  "name": "tazu",
+  "version": "1.0.1",
+  "main": "cli.js",
+  "description": "A simple task manager CLI tool",
+  "bin": {
+    "tazu": "./cli.js"
+  },
+  "scripts": {
+    "compile": "tsc cli.ts --target esnext"
+  },
+  "keywords": [
+    "tazu",
+    "task cli",
+    "task manager"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "commander": "^10.0.0"
+  }
+}
